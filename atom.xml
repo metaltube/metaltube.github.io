@@ -3,11 +3,11 @@
   <title>宵烛亭</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://b25.top/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://b25.top/"/>
   <updated>2020-08-18T03:59:17.857Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://b25.top/</id>
   
   <author>
     <name>MetalTube</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/08/18/hello-world/"/>
-    <id>http://yoursite.com/2020/08/18/hello-world/</id>
+    <link href="http://b25.top/2020/08/18/hello-world/"/>
+    <id>http://b25.top/2020/08/18/hello-world/</id>
     <published>2020-08-18T03:59:17.856Z</published>
     <updated>2020-08-18T03:59:17.857Z</updated>
     
@@ -38,20 +38,20 @@
   
   <entry>
     <title>测试</title>
-    <link href="http://yoursite.com/2020/08/18/001/"/>
-    <id>http://yoursite.com/2020/08/18/001/</id>
+    <link href="http://b25.top/2020/08/18/001/"/>
+    <id>http://b25.top/2020/08/18/001/</id>
     <published>2020-08-17T16:00:00.000Z</published>
     <updated>2020-08-18T04:58:37.958Z</updated>
     
     
     
     
-    <category term="测试用" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95%E7%94%A8/"/>
+    <category term="测试用" scheme="http://b25.top/categories/%E6%B5%8B%E8%AF%95%E7%94%A8/"/>
     
     
-    <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    <category term="test" scheme="http://b25.top/tags/test/"/>
     
-    <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    <category term="hexo" scheme="http://b25.top/tags/hexo/"/>
     
   </entry>
   
