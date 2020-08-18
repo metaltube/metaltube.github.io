@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-18T04:16:25.764Z</updated>
+  <updated>2020-08-18T03:59:17.857Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2020/08/18/001/"/>
-    <id>http://yoursite.com/2020/08/18/001/</id>
-    <published>2020-08-18T04:15:07.340Z</published>
-    <updated>2020-08-18T04:16:25.764Z</updated>
-    
-    <content type="html"><![CDATA[<p>layout: posts<br>title: 测试<br>date: 2020-08-18<br>categories: 测试用<br>tags: [test,hexo]</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;layout: posts&lt;br&gt;title: 测试&lt;br&gt;date: 2020-08-18&lt;br&gt;categories: 测试用&lt;br&gt;tags: [test,hexo]&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -54,6 +33,25 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://yoursite.com/2020/08/18/001/"/>
+    <id>http://yoursite.com/2020/08/18/001/</id>
+    <published>2020-08-17T16:00:00.000Z</published>
+    <updated>2020-08-18T04:58:37.958Z</updated>
+    
+    
+    
+    
+    <category term="测试用" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95%E7%94%A8/"/>
+    
+    
+    <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+    <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
