@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>宵烛亭</title>
-  
+  <icon>https://www.gravatar.com/avatar/cb68515840b47c2fcd074b23037b2021</icon>
   
   <link href="http://b25.top/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>MetalTube</name>
-    
+    <email>1420352177@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
