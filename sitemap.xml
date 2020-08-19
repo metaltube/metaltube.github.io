@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://b25.top/2020/08/15/002/</loc>
+    
+    <lastmod>2020-08-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://b25.top/2020/08/17/003/</loc>
+    
+    <lastmod>2020-08-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://b25.top/2020/08/16/001/</loc>
     
     <lastmod>2020-08-18</lastmod>
@@ -44,6 +58,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://b25.top/tags/%E6%B5%81%E9%87%8F%E5%8D%A1/</loc>
+    <lastmod>2020-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://b25.top/tags/%E5%B9%BF%E5%91%8A/</loc>
+    <lastmod>2020-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>http://b25.top/tags/%E6%90%AC%E8%BF%90/</loc>
