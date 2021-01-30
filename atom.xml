@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>宵烛亭</title>
+  <icon>https://www.gravatar.com/avatar/cb68515840b47c2fcd074b23037b2021</icon>
+  
+  <link href="http://b25.top/atom.xml" rel="self"/>
+  
+  <link href="http://b25.top/"/>
+  <updated>2020-01-29T16:00:00.000Z</updated>
+  <id>http://b25.top/</id>
+  
+  <author>
+    <name>MetalTube</name>
+    <email>1420352177@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>����һ��6607��</title>
+    <link href="http://b25.top/2020/01/30/001/"/>
+    <id>http://b25.top/2020/01/30/001/</id>
+    <published>2020-01-29T16:00:00.000Z</published>
+    <updated>2020-01-29T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>��ҵ�ˣ�</p>]]></content>
+    
+    
+    <summary type="html">6607</summary>
+    
+    
+    
+    <category term="6607" scheme="http://b25.top/categories/6607/"/>
+    
+    
+    <category term="6607" scheme="http://b25.top/tags/6607/"/>
+    
+  </entry>
+  
+</feed>
